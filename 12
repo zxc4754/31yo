@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World HTML</title>
+    
+</head>
+<body>
+    
+    <h1>dเลขที่31 ม.5/6</h1>
+   <p>เรียนอยู่ที่<b>ธาตุนารายน์วิทยา</b>ครับ</p>
+    <p>45</p>
+    <hr>
+    <img src="">
+    <h1>ความสามารถ</h1>
+    <ul>
+        <li>4</li>
+    </ul>
+    <ul><li>4</li></ul>
+       
+    
+    <h1>งานอดิเรก</h1>
+    <p><i>1.</i></p>
+    <p><i>2.</i></p>
+    <p><i>3.</i></p>
+    <a href="https://www.youtube.com/user/NISSINchannel/videos">เพลงที่ชอบ</a>
+</body>
+</html>
