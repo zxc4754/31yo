@@ -1,3 +1,17 @@
 h1{
     color: rgb(66, 109, 226);
     }
+
+ 
+div.container {
+        text-align: center;
+      }
+      
+    ul.myUL {
+        display: inline-block;
+        text-align: left;
+      } 
+    ol.myUL {
+        display: inline-block;
+        text-align: left;
+      }
