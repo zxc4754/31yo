@@ -39,7 +39,7 @@
 
 
 body {
-  
+  font-family: "Itim", sans-serif;
   font-weight: 300;
   overflow: hidden;
   position: absolute;
@@ -55,7 +55,7 @@ body {
   height: 100vh;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Itim", sans-serif;
   line-height: 1.618;
 }
 a,a:hover {
