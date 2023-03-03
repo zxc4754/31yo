@@ -111,10 +111,10 @@ const text = document.querySelector(".sec-text");
         const textLoad = () => {
             
             setTimeout(() => {
-                text.textContent = "Facebook";
+                text.textContent = "ทุกคน";
             }, 4000);
             setTimeout(() => {
-                text.textContent = "YouTuber";
+                text.textContent = "ผม ยอด";
             }, 8000); //1s = 1000 milliseconds
         }
 

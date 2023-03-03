@@ -2396,7 +2396,7 @@ header, .right-side {
 box-shadow: 0 5px 14px 0 #f64242;
 }
 .knowledge-item li:nth-child(1)::before {
-  background: linear-gradient(to bottom,#fc6e51,#e9573f);
+  background: linear-gradient(to bottom,#5d9cec,#4a89dc);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -2408,7 +2408,7 @@ box-shadow: 0 5px 14px 0 #f64242;
   -webkit-text-fill-color: transparent;
 }
 .knowledge-item li:nth-child(3)::before {
-  background: linear-gradient(to bottom,#6e54ff,#6142f6);
+  background: linear-gradient(to bottom,#ff5454,#f64242);
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
