@@ -115,3 +115,18 @@ gsap
     ease: "back",
   })
   .from(split.chars, { opacity: 0, delay: 0.05, stagger: 0.05, duration: 0.2 }, 0);
+window.addEventListener('resize', resizeIframe);
+
+function resizeIframe() {
+    var iframe = document.getElementById('myFrame');
+    var container = iframe.parentElement;
+    var aspectRatio = 16 / 9; // Change this to match your desired aspect ratio
+
+    var containerWidth = container.offsetWidth;
+    var newHeight = containerWidth / aspectRatio;
+
+    iframe.style.height = newHeight + 'px';
+}
+
+// Call the function initially to set the correct size
+resizeIframe();
