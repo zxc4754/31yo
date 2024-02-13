@@ -37,9 +37,7 @@ body {
   background-color: #ce9b9b;
 }
 
-[tabindex="-1"]:focus {
-  outline: 0 !important;
-}
+
 
 hr {
   box-sizing: content-box;
